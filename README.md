@@ -2,7 +2,7 @@
 
 ## [PDF - Ejercitación](https://github.com/EveNavarro/elementos/blob/master/public/pdf/Ejercitaci%C3%B3n%20-%20Manipulando%20elementos%20con%20JavaScript.pdf)
 
-### PREVIEW 
+### PREVIEW DE LA EJERCITACIÓN
 
 - HOME
 
