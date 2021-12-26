@@ -4,10 +4,10 @@
 
 ### PREVIEW DE LA EJERCITACIÓN
 
-- HOME.
+- HOME
 
 <img src="https://github.com/EveNavarro/elementos/blob/master/public/img/home.png" />
 
-- DARK MODE.
+- DARK MODE
 
 <img src="https://github.com/EveNavarro/elementos/blob/master/public/img/dark-mode.png" />
